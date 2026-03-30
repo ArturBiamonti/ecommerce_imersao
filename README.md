@@ -84,15 +84,6 @@ pip install dbt-core dbt-postgres
 dbt run
 ```
 
-### Resultado esperado
-
-```
-Completed successfully
-Done. PASS=12 WARN=0 ERROR=0 SKIP=0 NO-OP=0 TOTAL=12
-```
-
----
-
 ## 🧰 Tecnologias
 
 - **[dbt](https://www.getdbt.com/)** — Transformação de dados com SQL versionado
@@ -103,10 +94,5 @@ Done. PASS=12 WARN=0 ERROR=0 SKIP=0 NO-OP=0 TOTAL=12
 
 ## 📚 Sobre a Imersão
 
-Este projeto foi desenvolvido como parte da **Imersão de Dados** da **[Jornada de Dados](https://suajornadadedados.com.br/)**, uma comunidade de Data Engineering criada por **Luciano Vasconcelos**. A imersão foca em ensinar as melhores práticas de engenharia de dados com projetos hands-on.
+Este projeto foi desenvolvido como parte da **Imersão de Dados** do canal **Jornada de Dados**, do **Luciano Vasconcelos**. Uma imersão de um projeto completo de dados.
 
----
-
-## 📝 Licença
-
-Este projeto é de uso educacional, desenvolvido durante a Imersão de Dados da Jornada de Dados.
